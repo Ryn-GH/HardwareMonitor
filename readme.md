@@ -13,7 +13,7 @@ Un outil de monitoring matériel moderne développé en **C# / WPF** permettant 
 * **Logging :** Système d'exportation des métriques pour analyse de stabilité.
 
 ## Stack Technique
-* **Langage :** C# (.NET Framework 10).
+* **Langage :** C# (.NET Framework 4.7.2).
 * **Framework UI :** WPF (Windows Presentation Foundation).
 * **Accès Matériel :** LibreHardware Monitor Lib.
 * **Architecture :** MVVM (Model-View-ViewModel).
@@ -37,3 +37,4 @@ Pour garantir une interface fluide (60 FPS+) malgré la latence potentielle des 
 - [ ] Implémentation du moteur de lecture (OpenHardwareMonitor).
 - [ ] Création du Dashboard (Styles XAML personnalisés).
 - [ ] Optimisation de l'empreinte mémoire.
+
