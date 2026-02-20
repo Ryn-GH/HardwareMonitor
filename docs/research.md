@@ -1,4 +1,4 @@
-# Étude Technique : Interfaçage Matériel (OpenHardwareMonitor)
+# Étude Technique : Interfaçage Matériel (LibreHardwareMonitor)
 
 Ce document synthétise l'analyse technique effectuée avant l'implémentation du moteur de monitoring.
 
@@ -23,3 +23,4 @@ La lecture de certains capteurs (notamment via le bus I2C ou SMBus) est une opé
 | **CPU** | Core Temp, Package Power, Clock Speed. |
 | **GPU** | Core Temp, Hotspot, Memory Usage (VRAM). |
 | **RAM** | Used Memory, Load Percentage. |
+
